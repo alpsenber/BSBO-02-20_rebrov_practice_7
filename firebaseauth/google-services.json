@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511416363342",
+    "project_id": "rebrov-bsbo02-20",
+    "storage_bucket": "rebrov-bsbo02-20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511416363342:android:79b1cc190907ff6d36561f",
+        "android_client_info": {
+          "package_name": "ru.mirea.rebrov.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511416363342-p7m3bm6psbvnc80iea07cmvp6lvpqh0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7L2m1ws9nAuR9Eg6ocr5BEOHIW8C0AOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511416363342-p7m3bm6psbvnc80iea07cmvp6lvpqh0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
